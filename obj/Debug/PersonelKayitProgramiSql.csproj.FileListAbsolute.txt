@@ -1,0 +1,10 @@
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\bin\Debug\PersonelKayitProgramiSql.exe.config
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\bin\Debug\PersonelKayitProgramiSql.exe
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\bin\Debug\PersonelKayitProgramiSql.pdb
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.Form1.resources
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.Properties.Resources.resources
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.exe
+C:\Users\melik\Desktop\#staj projeleri#\PersonelKayitProgramiSql\PersonelKayitProgramiSql\obj\Debug\PersonelKayitProgramiSql.pdb
